@@ -1,0 +1,13 @@
+<- Vertex ----------------------------------------------------------------------
+The Vertex class handles coordinates x, y, z, w and color(represented by an instance of the Color Class).
+
+The Vertex Class must possess private attributes to represent the five characteristics.
+
+The class provides the following magic methods :
+
+Vertex   set(Vertex $_x || $_y || $_z || $_w) - set value to Vertex;
+
+Vertex	  get() - return value of Vertex; 
+
+If and only if the static attribute verbose is true, then the Vertex Class constructor and destructor will produce an output.
+---------------------------------------------------------------------- Vertex ->
